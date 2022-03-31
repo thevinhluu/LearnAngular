@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\modules",
+    "\\app\\modules\\wizards",
+    "\\app\\modules\\wizards\\horizontal",
+    "\\app\\modules\\wizards\\steps",
+    "\\app\\modules\\wizards\\steps\\step1",
+    "\\app\\modules\\wizards\\vertical",
+    "\\app\\pages\\dashboard",
+    "\\app\\_metronic"
+  ],
+  "SelectedNode": "\\app\\modules\\wizards\\horizontal\\horizontal.component.html",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\_metronic\\layout",
+    "\\src\\app\\_metronic\\layout\\components",
+    "\\src\\app\\_metronic\\layout\\components\\aside",
+    "\\src\\app\\_metronic\\layout\\components\\aside\\aside-menu",
+    "\\src\\app\\_metronic\\layout\\components\\toolbar"
+  ],
+  "SelectedNode": "\\src\\app\\app-routing.module.ts",
+  "PreviewInSolutionExplorer": false
+}
